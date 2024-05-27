@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011.01.07 11:02:53.086.pas,D:\Program_files\Embarcadero\RAD Studio\7.0\MyTemplates\Unit1.pas=D:\Programming\delfi_2010\__url_checker\UnitMain.pas</Transaction>
+    <Transaction>2011.01.07 11:02:53.086.dfm,D:\Program_files\Embarcadero\RAD Studio\7.0\MyTemplates\Unit1.dfm=D:\Programming\delfi_2010\__url_checker\UnitMain.dfm</Transaction>
+    <Transaction>2011.01.07 11:04:38.772.pas,D:\Program_files\Embarcadero\RAD Studio\7.0\MyTemplates\Unit1.pas=D:\Programming\delfi_2010\__url_checker\ThreadCheck.pas</Transaction>
+    <Transaction>2011.01.07 11:18:46.933.dproj,D:\Program_files\Embarcadero\RAD Studio\7.0\MyTemplates\Project1.dproj=D:\Programming\delfi_2010\__url_checker\URL_Checker.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
